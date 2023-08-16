@@ -2,7 +2,7 @@
 
 My first Streamlit application which focuses on experiencing basic features.
 
-![thumbnail](https://raw.githubusercontent.com/fungeeksunsik/streamlit-demo-pattern/master/thumbnail.png "My first streamlit application")
+![thumbnail](https://raw.githubusercontent.com/sunsikim/streamlit-demo-pattern/master/thumbnail.png "My first streamlit application")
 
 ## Environment
 
